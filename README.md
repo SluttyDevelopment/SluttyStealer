@@ -90,11 +90,13 @@ Get your personalized build with webhook integration.
 
 | Package | Builds | Price |
 |---------|--------|-------|
-| **Professional** | 5x Build | $69 |
-| **Enterprise** | Unlimited | $149 |
+| **Weekly** | Unlimited | $15 |
+| **Monthly** | Unlimited | $30 |
+| **Yearly** | Unlimited | $100 |
+| **Source Code** | Ready to go | $700 |
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="[https://t.me/YOUR_TELEGRAM](https://t.me/+Hr9LcT2ThwAzMDEx)">
     <img src="https://img.shields.io/badge/Telegram-Buy%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://sluttiest.space/">
