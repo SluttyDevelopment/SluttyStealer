@@ -99,7 +99,7 @@ Get your personalized build with webhook integration.
   <a href="https://discord.gg/CQV8NQY2Kw">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://t.me/+Hr9LcT2ThwAzMDEx">
+  <a href="https://t.me/+sG0PBV0xatQxNWUx">
     <img src="https://img.shields.io/badge/Telegram-Buy%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://sluttiest.space/">
