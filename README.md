@@ -114,7 +114,7 @@ Get your personalized build with webhook integration.
 | **Source Code** | Ready to go | $2500 |
 
 <p align="center">
-  <a href="https://discord.gg/CQV8NQY2Kw">
+  <a href="https://discord.gg/QuBnb3wH27">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://t.me/sluttydevelopments">
