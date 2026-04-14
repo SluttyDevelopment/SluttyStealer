@@ -108,10 +108,10 @@ Get your personalized build with webhook integration.
 
 | Package | Builds | Price |
 |---------|--------|-------|
-| **Weekly** | Unlimited | $30 |
-| **Monthly** | Unlimited | $100 |
-| **Yearly** | Unlimited | $700 |
-| **Source Code** | Ready to go | $2500 |
+| **Weekly** | Unlimited | $25 |
+| **Monthly** | Unlimited | $40 |
+| **Yearly** | Unlimited | $150 |
+| **Source Code** | Ready to go | $2000 |
 
 <p align="center">
   <a href="https://discord.gg/QuBnb3wH27">
